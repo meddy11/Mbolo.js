@@ -1,3 +1,1 @@
-# MBOLO-js
-# MBOLO-js
-# Mbolo.js
+# MBOLO-js => https://meddy11.github.io/Mbolo.js/
